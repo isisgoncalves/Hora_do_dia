@@ -1,0 +1,19 @@
+body{
+  background: rgb(73, 127, 131);
+  font-family: 'Playfair Display', serif;
+  color: white;
+  text-align: center;
+}
+
+section{
+  background: rgb(52, 73, 92);
+  border-radius: 8px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+
+ }
+
+footer{
+  font-family: 'Borel', cursive;
+ }
