@@ -1,1 +1,15 @@
-alert('Mais um teste!')
+function carregar(){
+  let msg = document.getElementById('msg')
+  let img = document.getElementById('imagem')
+  let data = new Date()
+  let hora = 15
+  msg.innerHTML = `Agora são ${hora} horas.`
+  if (hora >= 6 && hora < 12){
+    img.src = 'images/manha.png'
+  } else if(hora >= 12 && hora < 18){
+    img.src ='images/tarde.png'
+  } else{
+    img.src = 'images/noite.png'
+  }
+  
+}

@@ -5,8 +5,8 @@ body{
   text-align: center;
 }
 header{
-  margin-top: 80px;
-  margin-bottom: 40px;
+  margin-top: 50px;
+  margin-bottom: 25px;
 }
 
 section{
@@ -14,16 +14,20 @@ section{
   border-radius: 10px;
   padding: 15px;
   width: 500px;
-  height: 50px;
+  height: 405px;
   margin: auto;
   box-shadow: 3px 3px 10px rgba(255, 255, 255, 0.438);
-  }
+}
 
 div{
-  padding: 1pt;
-  }
-
+  margin-bottom: 20px;
+}
+  
 footer{
   font-family: 'Borel', cursive;
-  margin-top: 10px;
- }
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
