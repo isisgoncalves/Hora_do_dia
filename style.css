@@ -1,26 +1,36 @@
+* { 
+  margin: 0; 
+  padding: 0; 
+}
+
 body{
   background: rgb(73, 127, 131);
   font-family: 'Playfair Display', serif;
   color: white;
   text-align: center;
 }
+
 header{
-  margin-top: 50px;
-  margin-bottom: 25px;
+  margin-top: 2.5%;
+  margin-bottom: 2%;
 }
 
 section{
   background: rgb(45, 67, 88);
   border-radius: 10px;
-  padding: 15px;
-  width: 500px;
-  height: 405px;
+  padding: 1%;
+  width: 50%;
+  height: 50%;
   margin: auto;
   box-shadow: 3px 3px 10px rgba(255, 255, 255, 0.438);
 }
 
 div{
-  margin-bottom: 20px;
+  padding: 1%;
+}
+
+.foto{
+  size: 100%;
 }
   
 footer{
@@ -28,6 +38,19 @@ footer{
 }
 
 a{
+  font-size: small;
   text-decoration: none;
   color: white;
+}
+
+a:hover{
+  font-size: medium;
+}
+
+@media (max-width: 768px){
+  section{
+    height: 50vh;
+    width: 90vw;
+    overflow: hidden;
+  }
 }
