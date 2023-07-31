@@ -16,13 +16,16 @@ header{
 }
 
 section{
-  background: rgb(45, 67, 88);
+  background: rgb(248, 231, 231);
+  color: rgb(22, 20, 20);
+  font: bolder;
+  font-size: larger;
   border-radius: 10px;
   padding: 1%;
   width: 50%;
   height: 50%;
   margin: auto;
-  box-shadow: 3px 3px 10px rgba(255, 255, 255, 0.438);
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
 }
 
 div{
