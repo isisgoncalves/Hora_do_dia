@@ -6,7 +6,7 @@ function carregar(){
   //DATA ATUAL
   let hora = data.getHours()
   //HORA ATUAL
-  //let hora = 10
+  //let hora = 22
   //manipulando o horário pra teste
   msg.innerHTML = `Agora são ${hora} horas.`
   //msg com hora atualizada
