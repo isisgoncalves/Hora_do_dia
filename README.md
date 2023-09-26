@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um projeto que muda a interface conforme a hora do dia (manhã, tarde e noite).
 
-- [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/Projeto-Discover/)
+- [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/Hora_do_dia/)
