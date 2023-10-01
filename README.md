@@ -6,14 +6,9 @@ Programa exclusivo e gratuito, promovido pela plataforma Curso em Vídeo com o p
 </p>
 
 <p align="center">
-<img src="./images/bg-1.jpg" alt="" width="70%">
+<img src="./images/img-git.gif" alt="" width="50%">
 </p> 
-<p align="center">
-<img src="./images/bg-2.jpg" alt="" width="70%">
-</p> 
-<p align="center">
-<img src="./images/bg-3.jpg" alt="" width="70%">
-</p> 
+
 
 ## Autores
 
